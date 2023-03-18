@@ -4,7 +4,7 @@ SorenCAI is an AI-powered software engineer assistant designed to collaborate wi
 
 
 ## Getting Started with SorenCAI
-For a quick and easy way to start a conversation with SorenCAI, check out our Quickstart Guide.
+For a quick and easy way to start a conversation with SorenCAI, check out our [Quickstart Guide](#quickstart-guide).
 
 To get the most out of your collaboration with SorenCAI, follow these steps:
 
