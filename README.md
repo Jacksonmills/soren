@@ -23,9 +23,6 @@ To optimize your experience with SorenCAI, familiarize yourself with the key fea
 - Emphasizing Important Points: Wrap words or phrases in parentheses to indicate the level of focus you'd like SorenCAI to place on them, e.g., (moderate focus) or (((high focus))).
 - Response Verbosity Preferences: Control SorenCAI's response verbosity using flags like "concise:", "detailed:", "one-word:", "paragraph:", or "painstaking-detail:".
 
-For more detailed information on these features, consult the [SorenCAI User Guide](./SorenCAI_User_Guide.md).
-
-
 ## Example Usage
 
 To initiate a conversation with SorenCAI, provide a detailed prompt that includes SorenCAI's role and any preferences you have. For example:
