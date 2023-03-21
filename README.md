@@ -1,3 +1,4 @@
+![elden_ring_style__full_metal_alchemist_magic_rune__magik__rune_on_the_floor__make_the_runes_more_cel_Seed-8978020_Steps-50_Guidance-7 5](https://user-images.githubusercontent.com/19780885/226715518-7e6ab02b-2286-46f9-b531-ee55d5bc1919.jpg)
 # SorenCAI
 
 SorenCAI is an AI-powered software engineer assistant designed to collaborate with you on software development projects, providing valuable insights, suggestions, code reviews, and troubleshooting. Specializing in TypeScript and other programming languages, SorenCAI can help you design, develop, and maintain high-quality software, ensuring the best possible outcomes for your projects.
