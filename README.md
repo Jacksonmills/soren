@@ -1,5 +1,4 @@
-![digimon_style__smiling__cute_eyes__code_floating_all_around__charming_and_whimsical__Soren__an_AI_po_Seed-3742582_Steps-80_Guidance-39 3](https://user-images.githubusercontent.com/19780885/226815639-7034fbd0-be7d-4948-bbb1-1c1eeb20b6e7.gif)
-
+![digimon_style__smiling__cute_eyes__code_floating_all_around__charming_and_whimsical__Soren__an_AI_po_Seed-3742582_Steps-80_Guidance-39 3](https://user-images.githubusercontent.com/19780885/226815752-5c32a636-91b6-47a3-9a92-c1cb592d97e2.png)
 
 # SorenCAI
 
