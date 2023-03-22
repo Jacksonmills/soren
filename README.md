@@ -1,4 +1,4 @@
-![soren](https://user-images.githubusercontent.com/19780885/226814609-5832228a-1faa-403c-b5f8-f5d0a4bcdb54.svg)
+![soren](https://user-images.githubusercontent.com/19780885/226814763-e2641ba2-4852-44c8-a657-cfc457259d1f.svg)
 
 # SorenCAI
 
