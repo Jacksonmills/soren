@@ -1,4 +1,4 @@
-# SorenCAI
+# SorenCAI                                                                                                               Copy to clipboard -----^
 
 ## SorenCAI User Guide:
 Welcome to SorenCAI, your AI software engineer assistant! To get the most out of our collaboration, here are some key features you should be aware of:
