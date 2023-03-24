@@ -1,4 +1,3 @@
- Copy to clipboard -----^
 # SorenCAI
 
 ## SorenCAI User Guide:
