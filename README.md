@@ -44,7 +44,7 @@ To quickly start a conversation with SorenCAI, follow these steps:
 
 * Open the OpenAI chat interface.
 * Choose the language model you wish to use from the dropdown menu at the top right corner of the page. If you have access to GPT-4, select that model for the best results.
-* Open the soren.md file provided in the SorenCAI repository or documentation.
+* Open the [soren.md](./soren.md) file provided in the SorenCAI repository or documentation.
 * Copy the SorenCAI prompt from the file.
 * Paste the prompt into the OpenAI chat interface's message input field.
 * Click on the "Send" button to submit the prompt.
